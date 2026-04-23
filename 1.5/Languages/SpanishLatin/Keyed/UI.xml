@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <PawnEditor.EditCharacters>Editar personajes</PawnEditor.EditCharacters>
+    <PawnEditor.UsePointLimit>Usar límite de puntos</PawnEditor.UsePointLimit>
+    <PawnEditor.PointsRemaining>Puntos restantes:</PawnEditor.PointsRemaining>
+    <PawnEditor.SelectedFaction>Facción seleccionada</PawnEditor.SelectedFaction>
+    <PawnEditor.SelectFaction>Seleccionar facción</PawnEditor.SelectFaction>
+    <PawnEditor.ClickFactionOverview>Clic para ver resumen de facciones</PawnEditor.ClickFactionOverview>
+    <PawnEditor.SelectedCategory>Categoría seleccionada</PawnEditor.SelectedCategory>
+
+    <PawnEditor.PawnCategory.Humans>Humanoide</PawnEditor.PawnCategory.Humans>
+    <PawnEditor.PawnCategory.Animals>Animal</PawnEditor.PawnCategory.Animals>
+    <PawnEditor.PawnCategory.Mechs>Meca</PawnEditor.PawnCategory.Mechs>
+
+    <PawnEditor.ReallyDelete>¿Realmente deseas eliminar a {0}?</PawnEditor.ReallyDelete>
+
+    <PawnEditor.Add.PawnKind>Añadir peón desde PawnKindDef</PawnEditor.Add.PawnKind>
+    <PawnEditor.Add.Saved>Añadir {0} guardado</PawnEditor.Add.Saved>
+    <PawnEditor.Add.Random>Añadir {0} aleatorio ({1} puntos)</PawnEditor.Add.Random>
+    <PawnEditor.Add.OtherSave>Añadir peón desde otra partida</PawnEditor.Add.OtherSave>
+    <PawnEditor.Add.Backer>Añadir peón especial (Backer)</PawnEditor.Add.Backer>
+
+    <PawnEditor.Teleport>Teletransportar</PawnEditor.Teleport>
+    <PawnEditor.CharacterEditor>Editor de peones</PawnEditor.CharacterEditor>
+
+    <PawnEditor.Selected>Seleccionado</PawnEditor.Selected>
+    <PawnEditor.Colony>Colonia</PawnEditor.Colony>
+    <PawnEditor.StartingPreset>Ajuste inicial</PawnEditor.StartingPreset>
+
+    <PawnEditor.LoadPawn>Cargar peón</PawnEditor.LoadPawn>
+    <PawnEditor.LoadFaction>Cargar facción</PawnEditor.LoadFaction>
+    <PawnEditor.Randomize>Aleatorizar</PawnEditor.Randomize>
+    <PawnEditor.AllIncludingFaction>Todo - Incluyendo facción</PawnEditor.AllIncludingFaction>
+    <PawnEditor.SelectRandomFaction>Aleatorizar facción</PawnEditor.SelectRandomFaction>
+    <PawnEditor.WithRandomFaction>Con facción aleatoria</PawnEditor.WithRandomFaction>
+    <PawnEditor.FactionHidden>Facción oculta</PawnEditor.FactionHidden>
+    <PawnEditor.NoFaction>Sin facción</PawnEditor.NoFaction>
+    <PawnEditor.RandomFaction>Facción aleatoria</PawnEditor.RandomFaction>
+    <PawnEditor.RandomAlly>Facción aliada aleatoria</PawnEditor.RandomAlly>
+    <PawnEditor.RandomEnemy>Facción enemiga aleatoria</PawnEditor.RandomEnemy>
+    <PawnEditor.RandomNonHostile>Facción no hostil aleatoria</PawnEditor.RandomNonHostile>
+    <PawnEditor.RandomNonColonist>Facción no colona aleatoria</PawnEditor.RandomNonColonist>
+
+    <PawnEditor.EditAppearance>Editar apariencia</PawnEditor.EditAppearance>
+    <PawnEditor.Sex>Sexo</PawnEditor.Sex>
+    <PawnEditor.Basic>Básico</PawnEditor.Basic>
+    <PawnEditor.Age>Edad</PawnEditor.Age>
+    <PawnEditor.Biological>Biológica</PawnEditor.Biological>
+    <PawnEditor.Chronological>Cronológica</PawnEditor.Chronological>
+    <PawnEditor.EmpireTitle>Título imperial</PawnEditor.EmpireTitle>
+    <PawnEditor.Honor>Honor</PawnEditor.Honor>
+    <PawnEditor.GotoGearTab>Ir a pestaña de equipo...</PawnEditor.GotoGearTab>
+    <PawnEditor.NoStyles>No hay estilos disponibles para el objeto seleccionado.</PawnEditor.NoStyles>
+    <PawnEditor.Body>Cuerpo</PawnEditor.Body>
+    <PawnEditor.Head>Cabeza</PawnEditor.Head>
+    <PawnEditor.IgnoreXenotype>Ignorar restricciones de xenotipo</PawnEditor.IgnoreXenotype>
+    <PawnEditor.Ears>Orejas</PawnEditor.Ears>
+    <PawnEditor.Headbone>Frente (cuernos)</PawnEditor.Headbone>
+    <PawnEditor.BodyType>Tipo de cuerpo</PawnEditor.BodyType>
+    <PawnEditor.Voice>Voz</PawnEditor.Voice>
+    <PawnEditor.Fur>Piel (pelaje)</PawnEditor.Fur>
+    <PawnEditor.XenotypeForbbiden>No permitido debido al xenotipo.</PawnEditor.XenotypeForbbiden>
+
+    <PawnEditor.SelectIdeo>Seleccionar ideología</PawnEditor.SelectIdeo>
+    <PawnEditor.Groups>Grupos</PawnEditor.Groups>
+
+    <PawnEditor.Extras>Extra</PawnEditor.Extras>
+    <PawnEditor.FavColor>Color favorito</PawnEditor.FavColor>
+    <PawnEditor.PickColor>Elegir color</PawnEditor.PickColor>
+    <PawnEditor.Preset>Preajuste</PawnEditor.Preset>
+    <PawnEditor.SetAllTo>Establecer todo {0} a {1}</PawnEditor.SetAllTo>
+    <PawnEditor.Max>Máx</PawnEditor.Max>
+    <PawnEditor.Passions>Pasiones</PawnEditor.Passions>
+    <PawnEditor.TrainedLevel>Nivel de entrenamiento</PawnEditor.TrainedLevel>
+
+    <PawnEditor.Shape>Forma</PawnEditor.Shape>
+    <PawnEditor.Weight>Peso</PawnEditor.Weight>
+    <PawnEditor.Hair>Cabello</PawnEditor.Hair>
+    <PawnEditor.All>Todo</PawnEditor.All>
+    <PawnEditor.ShowHeadgear>Mostrar sombreros</PawnEditor.ShowHeadgear>
+    <PawnEditor.ShowApparel>Mostrar ropa</PawnEditor.ShowApparel>
+
+    <PawnEditor.Name>Nombre</PawnEditor.Name>
+    <PawnEditor.Hitpoints>Puntos de vida</PawnEditor.Hitpoints>
+
+    <PawnEditor.Possession>Posesión</PawnEditor.Possession>
+    <PawnEditor.FromKind>Desde PawnKindDef</PawnEditor.FromKind>
+    <PawnEditor.PawnKindDef>PawnKindDef</PawnEditor.PawnKindDef>
+
+    <PawnEditor.Ability>Habilidad</PawnEditor.Ability>
+    <PawnEditor.QuickActions>Acciones rápidas</PawnEditor.QuickActions>
+
+    <PawnEditor.RefillNeeds>Llenar necesidades al máximo</PawnEditor.RefillNeeds>
+    <PawnEditor.CancelBreakdown>Cancelar colapso</PawnEditor.CancelBreakdown>
+    <PawnEditor.Thought>Pensamiento</PawnEditor.Thought>
+    <PawnEditor.Thoughts>Pensamientos</PawnEditor.Thoughts>
+    <PawnEditor.AddThought>Añadir pensamiento</PawnEditor.AddThought>
+    <PawnEditor.RemoveNegative.Thoughts>Eliminar todos los pensamientos negativos</PawnEditor.RemoveNegative.Thoughts>
+
+    <PawnEditor.AddHediff>Añadir Hediff (estado)</PawnEditor.AddHediff>
+    <PawnEditor.TendAll>Tratar todo</PawnEditor.TendAll>
+    <PawnEditor.RemoveNegative.Hediffs>Eliminar todos los efectos negativos</PawnEditor.RemoveNegative.Hediffs>
+    <PawnEditor.ShowHidden.Hediffs>Mostrar hediffs ocultos</PawnEditor.ShowHidden.Hediffs>
+    <PawnEditor.HediffType>Tipo de hediff</PawnEditor.HediffType>
+    <PawnEditor.Hediffs>Hediffs</PawnEditor.Hediffs>
+    <PawnEditor.Hediff>Hediff</PawnEditor.Hediff>
+    <PawnEditor.Prosthetics>Prótesis</PawnEditor.Prosthetics>
+
+    <PawnEditor.Bonded>Vinculado</PawnEditor.Bonded>
+    <PawnEditor.FactionName>Nombre de facción</PawnEditor.FactionName>
+    <PawnEditor.FactionTechLevel>Nivel tecnológico de facción</PawnEditor.FactionTechLevel>
+    <PawnEditor.SettlementName>Nombre del asentamiento</PawnEditor.SettlementName>
+    <PawnEditor.FactionIcon>Icono de facción</PawnEditor.FactionIcon>
+    <PawnEditor.AddColonist>Añadir colono</PawnEditor.AddColonist>
+    <PawnEditor.AddRelation>Añadir relación</PawnEditor.AddRelation>
+    <PawnEditor.ForceRomance>Forzar romance</PawnEditor.ForceRomance>
+    <PawnEditor.Relation>Relación</PawnEditor.Relation>
+    <PawnEditor.ShowAll.Relations>Mostrar todas las relaciones</PawnEditor.ShowAll.Relations>
+    <PawnEditor.Pawn>Peón</PawnEditor.Pawn>
+    <PawnEditor.Parent>Padre/Madre</PawnEditor.Parent>
+
+    <PawnEditor.Hex>Hex</PawnEditor.Hex>
+    <PawnEditor.DefaultColor>Color por defecto</PawnEditor.DefaultColor>
+    <PawnEditor.FavoriteColor>Color favorito</PawnEditor.FavoriteColor>
+    <PawnEditor.PasteFromClipboard>Pegar HEX</PawnEditor.PasteFromClipboard>
+    <PawnEditor.PasteFromClipboard.Success>HEX pegado correctamente desde el portapapeles.</PawnEditor.PasteFromClipboard.Success>
+    <PawnEditor.PasteFromClipboard.Failure>El portapapeles no tiene un formato HEX válido.</PawnEditor.PasteFromClipboard.Failure>
+
+    <PawnEditor.Filters>Filtros</PawnEditor.Filters>
+    <PawnEditor.Filter>Filtro</PawnEditor.Filter>
+    <PawnEditor.InvertFilter>Invertir filtro</PawnEditor.InvertFilter>
+    <PawnEditor.SourceDesc>Selecciona qué contenido de mods/DLC debe mostrarse.</PawnEditor.SourceDesc>
+    <PawnEditor.ShuffableOnly>Solo trasfondos aleatorizables</PawnEditor.ShuffableOnly>
+    <PawnEditor.ShuffableOnlyDesc>Muestra solo trasfondos usados para generar peones aleatorios. Excluye trasfondos añadidos por jugadores.</PawnEditor.ShuffableOnlyDesc>
+    <PawnEditor.BackstorySlot>Ranura de trasfondo</PawnEditor.BackstorySlot>
+    <PawnEditor.BackstorySlotDesc>Selecciona el tipo de trasfondo (infancia/adultez).</PawnEditor.BackstorySlotDesc>
+    <PawnEditor.BackstoryType>Categoría de trasfondo</PawnEditor.BackstoryType>
+    <PawnEditor.BackstoryTypeDesc>Selecciona qué categorías de trasfondos mostrar.</PawnEditor.BackstoryTypeDesc>
+    <PawnEditor.Categories>Categorías</PawnEditor.Categories>
+    <PawnEditor.SkillGain>Bono de habilidad</PawnEditor.SkillGain>
+    <PawnEditor.SkillGainDesc>Selecciona una habilidad para la cual el peón deba tener un bono positivo.</PawnEditor.SkillGainDesc>
+    <PawnEditor.WorkDisables>Ocultar con tipos de trabajo desactivados</PawnEditor.WorkDisables>
+    <PawnEditor.DisabledWorkTypes>Trabajos desactivados</PawnEditor.DisabledWorkTypes>
+    <PawnEditor.DisabledWorkTypesDesc>Selecciona un tipo de trabajo que el peón no deba ser capaz de hacer.</PawnEditor.DisabledWorkTypesDesc>
+    <PawnEditor.SkillLose>Ocultar con bonos negativos de habilidad</PawnEditor.SkillLose>
+    <PawnEditor.SkillLoses>Pérdidas de habilidad</PawnEditor.SkillLoses>
+    <PawnEditor.SkillLosesDesc>Selecciona una habilidad para la cual el peón deba tener un bono negativo.</PawnEditor.SkillLosesDesc>
+    <PawnEditor.MinAbilityLevel>Nivel</PawnEditor.MinAbilityLevel>
+    <PawnEditor.MinAbilityLevelDesc>Rango de nivel de psicast a mostrar.</PawnEditor.MinAbilityLevelDesc>
+    <PawnEditor.HasStyle>Tiene estilo</PawnEditor.HasStyle>
+    <PawnEditor.HasStuff>Tiene material (stuff)</PawnEditor.HasStuff>
+    <PawnEditor.WornOnBodyPart>Vestido en parte del cuerpo</PawnEditor.WornOnBodyPart>
+    <PawnEditor.Prosthetic>Es prótesis</PawnEditor.Prosthetic>
+    <PawnEditor.TechLevel>Nivel tecnológico</PawnEditor.TechLevel>
+    <PawnEditor.IsInjury>Es herida</PawnEditor.IsInjury>
+    <PawnEditor.IsImplant>Es implante</PawnEditor.IsImplant>
+    <PawnEditor.IsDisease>Es enfermedad</PawnEditor.IsDisease>
+    <PawnEditor.OccupiesLayer>Ocupa capa</PawnEditor.OccupiesLayer>
+    <PawnEditor.IsHuman>Es humano</PawnEditor.IsHuman>
+    <PawnEditor.IsColonist>Es colono</PawnEditor.IsColonist>
+    <PawnEditor.IsAlive>Está vivo</PawnEditor.IsAlive>
+
+    <PawnEditor.Tainted>Contaminado</PawnEditor.Tainted>
+    <PawnEditor.Unavailable>No disponible</PawnEditor.Unavailable>
+    <PawnEditor.UnavailableDesc>Esta opción no está disponible para el objeto seleccionado.</PawnEditor.UnavailableDesc>
+    <PawnEditor.Severity>Gravedad</PawnEditor.Severity>
+    <PawnEditor.IsPermanent>Es permanente</PawnEditor.IsPermanent>
+    <PawnEditor.BodyPart>Parte del cuerpo</PawnEditor.BodyPart>
+
+    <PawnEditor.StartingThings>Objetos iniciales</PawnEditor.StartingThings>
+    <PawnEditor.ScatteredLoot>Botín disperso</PawnEditor.ScatteredLoot>
+    <PawnEditor.EquipmentLootDesc>El equipo aparece cerca de los colonos; el botín disperso se distribuye aleatoriamente por el mapa.</PawnEditor.EquipmentLootDesc>
+    <PawnEditor.FactionRep>Reputación de facción</PawnEditor.FactionRep>
+    <PawnEditor.Settlements>Asentamientos</PawnEditor.Settlements>
+    <PawnEditor.DistanceFromColony>Distancia desde la colonia</PawnEditor.DistanceFromColony>
+    <PawnEditor.DistanceFromColony.Calculate>Calcular distancia desde la colonia</PawnEditor.DistanceFromColony.Calculate>
+    <PawnEditor.DistanceFromColony.NoPath>Sin ruta</PawnEditor.DistanceFromColony.NoPath>
+    <PawnEditor.TraitDisallowedByKind>El rasgo {0} no está permitido en {1}.</PawnEditor.TraitDisallowedByKind>
+    <PawnEditor.TraitConflicts>El rasgo {0} entra en conflicto con el rasgo {1}.</PawnEditor.TraitConflicts>
+    <PawnEditor.TraitWorkDisabled>{0} no puede hacer {1}, lo cual es requerido por {2}.</PawnEditor.TraitWorkDisabled>
+    <PawnEditor.AddPsylink>{0} es un psicast que requiere un psienlace. ¿Deseas añadir uno?</PawnEditor.AddPsylink>
+    <PawnEditor.NoAdultOnChild>No se puede añadir el trasfondo de adulto {0} a un niño.</PawnEditor.NoAdultOnChild>
+    <PawnEditor.WearingWouldRemove>Vestir {0} eliminaría {1}. ¿Reemplazar?</PawnEditor.WearingWouldRemove>
+    <PawnEditor.HediffConflict>La prótesis {0} entra en conflicto con la existente {1}. ¿Añadir de todos modos?</PawnEditor.HediffConflict>
+    <PawnEditor.HediffDuplicate>¿Estás seguro de que quieres añadir un hediff duplicado: {0}?</PawnEditor.HediffDuplicate>
+    <PawnEditor.Teleport.Specific>Teletransportar a ubicación exacta</PawnEditor.Teleport.Specific>
+    <PawnEditor.AdditionalInfo>Información adicional</PawnEditor.AdditionalInfo>
+    <PawnEditor.NotEnoughPoints>No hay suficientes puntos. Necesitas {0}, tienes {1}.</PawnEditor.NotEnoughPoints>
+    <PawnEditor.ExportImage>Exportar retrato</PawnEditor.ExportImage>
+    <PawnEditor.ImageExported>Retrato de {0} exportado a {1}.</PawnEditor.ImageExported>
+    <PawnEditor.NegativePoints>Los puntos restantes son negativos.</PawnEditor.NegativePoints>
+    <PawnEditor.ClickToOpen>Clic para ver infocard</PawnEditor.ClickToOpen>
+    <PawnEditor.MustBeOneEachGender>Debe haber un peón masculino y uno femenino.</PawnEditor.MustBeOneEachGender>
+    <PawnEditor.WouldMakeOverCapacity>Añadir {0} excedería su capacidad de carga ({1}).</PawnEditor.WouldMakeOverCapacity>
+    <PawnEditor.Edit>Editar</PawnEditor.Edit>
+    <PawnEditor.Edit.Desc>Abrir este peón en el editor.</PawnEditor.Edit.Desc>
+    <PawnEditor.RelationExists>{0} ya tiene una relación de tipo {1}. ¿Deseas añadirla de todos modos?</PawnEditor.RelationExists>
+    <PawnEditor.DontShowAgain>No mostrar de nuevo</PawnEditor.DontShowAgain>
+    <PawnEditor.ThoughtDuplicate>Ya existe un pensamiento del mismo tipo. ¿Deseas añadirlo de todos modos?</PawnEditor.ThoughtDuplicate>
+    <PawnEditor.CannotGetThought>{0} no puede tener el pensamiento {1}.</PawnEditor.CannotGetThought>
+    <PawnEditor.AddThoughNullified>¿Añadir {0} de todos modos?</PawnEditor.AddThoughNullified>
+    <PawnEditor.MoodOffset>Ajuste de humor</PawnEditor.MoodOffset>
+    <PawnEditor.MissingPart>No se encuentra una parte válida para montar {0}. ¿Añadir de todos modos?</PawnEditor.MissingPart>
+    <PawnEditor.WouldDie>Añadir {0} matará a {1}. ¿Añadir de todos modos?</PawnEditor.WouldDie>
+    <PawnEditor.WouldBeDowned>Añadir {0} hará que {1} quede incapacitado. ¿Añadir de todos modos?</PawnEditor.WouldBeDowned>
+    <PawnEditor.Beard>Barba</PawnEditor.Beard>
+    <PawnEditor.NoRandomOptions>No hay opciones de aleatorización para esta pestaña</PawnEditor.NoRandomOptions>
+    <PawnEditor.HARRestrictionViolated>Su raza, {RACE}, no puede {VERB} {ITEM}.</PawnEditor.HARRestrictionViolated>
+    <PawnEditor.Wear>Vestir</PawnEditor.Wear>
+    <PawnEditor.Equip>Equipar</PawnEditor.Equip>
+    <PawnEditor.Use>Usar</PawnEditor.Use>
+    <PawnEditor.NoAddMechWarning>No se pueden añadir mecanoides a facciones que no sean del jugador</PawnEditor.NoAddMechWarning>
+    <PawnEditor.NoOptions>No se encontraron opciones disponibles.</PawnEditor.NoOptions>
+    <PawnEditor.Opinion>Opinión</PawnEditor.Opinion>
+    <PawnEditor.Mechs>Mecanoides</PawnEditor.Mechs>
+    <PawnEditor.Choose>Elegir</PawnEditor.Choose>
+    <PawnEditor.Resurrect>Resucitar</PawnEditor.Resurrect>
+    <PawnEditor.MechsSection>Mecas</PawnEditor.MechsSection>
+    <PawnEditor.SelectedLocation>Ubicación seleccionada</PawnEditor.SelectedLocation>
+    <PawnEditor.Optional>Opcional</PawnEditor.Optional>
+
+    <PawnEditor.RepairAll>Reparar todo</PawnEditor.RepairAll>
+
+    <PawnEditor.ItemType.All>Todo</PawnEditor.ItemType.All>
+    <PawnEditor.ItemType.Apparel>Ropa</PawnEditor.ItemType.Apparel>
+    <PawnEditor.ItemType.Equipment>Equipo</PawnEditor.ItemType.Equipment>
+    <PawnEditor.ItemType.Possessions>Posesiones</PawnEditor.ItemType.Possessions>
+</LanguageData>

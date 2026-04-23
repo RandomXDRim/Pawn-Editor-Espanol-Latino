@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <PawnEditor>Editor de peones</PawnEditor>
+    <PawnEdtior.OverrideVanilla>Sustituir ventana original</PawnEdtior.OverrideVanilla>
+    <PawnEditor.OverrideVanilla.Desc>Sustituye la pantalla de creación de personajes original del juego por la pantalla del Editor de peones. Si se desactiva, aparecerá un botón en la parte inferior para abrir el editor de forma manual.</PawnEditor.OverrideVanilla.Desc>
+    <PawnEditor.InGameDevButton>Botón de modo desarrollo</PawnEditor.InGameDevButton>
+    <PawnEditor.InGameDevButton.Desc>Habilita un botón en el modo desarrollo (dev mode) para abrir la ventana del Editor de peones durante la partida.</PawnEditor.InGameDevButton.Desc>
+    <PawnEditor.PointLimit>Límite de puntos</PawnEditor.PointLimit>
+    <PawnEditor.UseSilver>Usar plata como puntos</PawnEditor.UseSilver>
+    <PawnEditor.UseSilver.Desc>El límite de puntos será igual a la cantidad de plata de la colonia actual, y el uso de puntos deducirá plata de tus almacenes.</PawnEditor.UseSilver.Desc>
+    <PawnEditor.CountNPCs>Contar peones PNJ en los puntos</PawnEditor.CountNPCs>
+    <PawnEditor.CountNPCs.Desc>Si se activa, los peones no pertenecientes a tu facción (PNJ) también afectarán tu límite de puntos.</PawnEditor.CountNPCs.Desc>
+    <PawnEditor.ShowEditButton>Mostrar botón de edición (Gizmo)</PawnEditor.ShowEditButton>
+    <PawnEditor.ShowEditButton.Desc>Muestra un botón en la barra inferior (junto a los comandos de los colonos) para abrir el editor directamente con el peón seleccionado.</PawnEditor.ShowEditButton.Desc>
+    <PawnEditor.ResetConfirmation>Restablecer mensajes de confirmación</PawnEditor.ResetConfirmation>
+    <PawnEditor.HediffLocation>Limitar partes posibles para Hediff a...</PawnEditor.HediffLocation>
+    <PawnEditor.HediffLocation.All>Todas</PawnEditor.HediffLocation.All>
+    <PawnEditor.HediffLocation.RecipeDef>Ubicaciones de instalación</PawnEditor.HediffLocation.RecipeDef>
+    <PawnEditor.EnforceHARRestrictions>Aplicar restricciones de HAR</PawnEditor.EnforceHARRestrictions>
+    <PawnEditor.EnforceHARRestrictions.Desc>Si se activa, se respetarán las restricciones del mod "Humanoid Alien Races" (como ropa o pensamientos específicos de cada raza) dentro del editor.</PawnEditor.EnforceHARRestrictions.Desc>
+    <PawnEditor.HideRandomFactions>Ocultar nombres de facciones ajenas</PawnEditor.HideRandomFactions>
+    <PawnEditor.HideRandomFactions.Desc>Permite ocultar los nombres de las facciones que no pertenecen a la colonia mientras editas peones antes de comenzar la partida.</PawnEditor.HideRandomFactions.Desc>
+</LanguageData>
